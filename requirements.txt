@@ -1,0 +1,5 @@
+selenium
+pytest
+requests
+behave
+allure-pytest
